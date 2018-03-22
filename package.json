@@ -1,0 +1,24 @@
+{
+  "name": "kickmoji-nike-account-unlocker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "unlock your locked nike accounts - does not reverify them incase anything happens",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "colors": "^1.1.2",
+    "dateformat": "^3.0.3",
+    "imap": "^0.8.19",
+    "moment": "^2.20.1",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": {
+    "vlad": "https://github.com/atomily"
+  }
+}
