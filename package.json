@@ -12,6 +12,7 @@
     "dateformat": "^3.0.3",
     "imap": "^0.8.19",
     "moment": "^2.20.1",
+    "nightmare": "^3.0.0",
     "request": "^2.83.0",
     "request-promise": "^4.2.1"
   },
