@@ -45,6 +45,8 @@ Next up, you want setup a mailbox (or a label) that contains your nike accounts.
 
 As soon as thats done, your essentially ready to edit the config file and start getting your accounts unlocked.
 
+The mailbox is your category inside your email that is holding the emails. This is to ensure that their wont be any mess ups with other files. To do this on gmail, you would create a Label and drag and drop your nike locked account emails in there.
+
 
 # Error Codes
 
