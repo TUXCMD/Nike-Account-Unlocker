@@ -3,9 +3,13 @@
 # Nike Account Unlocker
 Unlocks locked sms verified nike accounts
 
+## NOTE
+This is only half of the script. This will not change the password for you but it will reset all your accounts. 
+I will try to push update out before tomorrows drop for the other half. Just want people to have something before then though.
+
 # Requirements
 * [node.js](http://nodejs.org/) -- v0.8.0 or newer
-* An IMAP server to connect to -- this file has setup instructions for [gmail](https://gmail.com) and [private email](https://privateemail.com/)
+* An IMAP server to connect to -- this file has setup instructions for [gmail](https://gmail.com)
 * common sense
 
 # Usage
